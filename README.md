@@ -1,6 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on connect-blood<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## Hello👋, Archana N here
+💡 A Passionate developer from Banglore ♨️ 
 
+# 💫 About Me:<br>
+🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
+🔭 I’m currently working on Connect-Blood(Blood-Donation website)<br><br>
+💬 Ask me about Programming,FSWD <br><br>
+👍 Checkout my resume <a href="">here</a> <br> <br>
+🙌 Reach out to me at archana3767@gmail.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Archana-Gowda-N) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Archana-Gowda-N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archanan3767@gmail.com) 
