@@ -1,5 +1,5 @@
 ## Hello👋, Archana N here
-💡 A Passionate developer from Banglore ♨️ 
+💡 A Passionate developer from Kolar ♨️ 
 
 # 💫 About Me:<br>
 🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
